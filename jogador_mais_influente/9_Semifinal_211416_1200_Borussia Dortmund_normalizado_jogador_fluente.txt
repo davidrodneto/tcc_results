@@ -1,2 +1,0 @@
-Jogador mais fluente: Julian Brandt
-Passos até a convergência: 16
