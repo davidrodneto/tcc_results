@@ -1,0 +1,2 @@
+Jogador mais influente: Kevin Kampl
+Passos até a convergência: 15

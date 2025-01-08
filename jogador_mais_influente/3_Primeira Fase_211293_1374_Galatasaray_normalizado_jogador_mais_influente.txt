@@ -1,0 +1,2 @@
+Jogador mais influente: Lucas Torreira
+Passos até a convergência: 13

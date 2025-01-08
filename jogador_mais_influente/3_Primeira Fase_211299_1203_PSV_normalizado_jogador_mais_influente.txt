@@ -1,0 +1,2 @@
+Jogador mais influente: Andre Ramalho
+Passos até a convergência: 14

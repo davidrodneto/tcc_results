@@ -1,0 +1,2 @@
+Jogador mais influente: Nicolo Casale
+Passos até a convergência: 15

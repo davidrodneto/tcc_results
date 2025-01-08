@@ -1,0 +1,2 @@
+Jogador mais influente: Alexander Bah
+Passos até a convergência: 13

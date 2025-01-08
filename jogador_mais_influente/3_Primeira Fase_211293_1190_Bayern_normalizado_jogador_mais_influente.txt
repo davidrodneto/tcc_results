@@ -1,0 +1,2 @@
+Jogador mais influente: Joshua Kimmich
+Passos até a convergência: 15
