@@ -1,0 +1,2 @@
+Jogador mais influente: Eric Dier
+Passos até a convergência: 16

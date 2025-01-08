@@ -1,0 +1,2 @@
+Jogador mais influente: Koke
+Passos até a convergência: 11

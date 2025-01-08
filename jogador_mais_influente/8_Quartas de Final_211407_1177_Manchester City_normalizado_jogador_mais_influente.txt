@@ -1,0 +1,2 @@
+Jogador mais influente: Rodri
+Passos até a convergência: 12
