@@ -1,0 +1,2 @@
+Jogador mais influente: Bruno Guimaraes
+Passos até a convergência: 10

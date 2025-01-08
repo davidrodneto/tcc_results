@@ -1,0 +1,2 @@
+Jogador mais influente: Rafael Leao
+Passos até a convergência: 18

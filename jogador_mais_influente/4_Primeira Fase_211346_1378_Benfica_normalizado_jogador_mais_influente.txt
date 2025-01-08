@@ -1,0 +1,2 @@
+Jogador mais influente: Nicolas Otamendi
+Passos até a convergência: 12

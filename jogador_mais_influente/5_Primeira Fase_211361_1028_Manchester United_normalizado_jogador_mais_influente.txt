@@ -1,0 +1,2 @@
+Jogador mais influente: Bruno Fernandes
+Passos até a convergência: 15

@@ -1,0 +1,2 @@
+Jogador mais influente: Luis Alberto
+Passos até a convergência: 15

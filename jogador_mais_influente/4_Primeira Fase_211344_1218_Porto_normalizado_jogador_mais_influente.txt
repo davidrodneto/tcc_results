@@ -1,0 +1,2 @@
+Jogador mais influente: Alan Varela
+Passos até a convergência: 14

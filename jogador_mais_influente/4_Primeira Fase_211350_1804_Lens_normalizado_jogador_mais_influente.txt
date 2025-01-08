@@ -1,0 +1,2 @@
+Jogador mais influente: Facundo Medina
+Passos até a convergência: 13

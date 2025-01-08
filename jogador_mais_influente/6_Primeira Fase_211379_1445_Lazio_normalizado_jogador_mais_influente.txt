@@ -1,0 +1,2 @@
+Jogador mais influente: Mario Gila
+Passos até a convergência: 13
