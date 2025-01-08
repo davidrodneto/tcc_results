@@ -1,0 +1,2 @@
+Jogador mais influente: Sean Longstaff
+Passos até a convergência: 15

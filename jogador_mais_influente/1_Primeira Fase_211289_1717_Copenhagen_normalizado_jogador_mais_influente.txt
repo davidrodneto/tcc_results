@@ -1,0 +1,2 @@
+Jogador mais influente: Elias Achouri
+Passos até a convergência: 20

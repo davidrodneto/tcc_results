@@ -1,0 +1,2 @@
+Jogador mais influente: Wendell
+Passos até a convergência: 14

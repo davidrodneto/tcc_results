@@ -1,0 +1,2 @@
+Jogador mais influente: Lucas Tousart
+Passos até a convergência: 14
